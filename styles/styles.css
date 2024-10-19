@@ -1,0 +1,55 @@
+* {
+    margin:0px;
+    padding:0px;
+}
+
+body {
+    background-color: rgb(132, 26, 26);
+}
+
+header {
+    background-color: rgb(132, 26, 26);
+    text-align: center;
+    padding:1rem;
+}
+
+header > nav > a {
+    color: white;
+    padding:2rem;
+}
+
+main {
+    background-color: rgb(132, 26, 26);
+    color:white;
+    background-image: url(../assets/_6eacb50a-d212-4783-a762-973b66e27e18.jpg);
+    height: 600px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+section {
+    text-align: center;
+    background-color: rgb(132, 26, 26);
+    color: white;
+    margin:2rem;
+}
+
+.waldemar {
+    margin: 6rem;
+}
+
+h2 {
+    margin-left: 1rem;
+}
+
+#countdown {
+    margin-left: 1rem;
+}
+
+.music {
+    background-color: rgb(132, 26, 26);
+    border:none;
+    outline:none;
+    margin-top: 2rem;
+}
