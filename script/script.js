@@ -33,3 +33,4 @@ function countdownToChristmas() {
 
 // Uppdatera nedräkningen varje sekund
 const countdown = setInterval(countdownToChristmas, 1000);
+
